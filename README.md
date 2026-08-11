@@ -110,4 +110,4 @@ I optimise for systems that survive production over systems that demo well. Stro
 🎓 **BSc Computer Science** — King's College London · *First-Class Honours*
 
 ---
-<i>Open to interesting problems in backend, cloud, and applied AI — say hi.</i>
+<i>Open to interesting problems in backend, cloud, web3 and applied AI — say hi.</i>
