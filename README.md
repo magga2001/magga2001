@@ -25,7 +25,7 @@ I optimise for systems that survive production over systems that demo well. Stro
 
 **Web3 Market Insights** — Real-time analytics aggregating on-chain activity and market data at up to **5,000 events/second**.
 
-**Quantum Framework for Qiskit** — Node-RED extension letting non-quantum developers build circuits visually. Cut authoring time by 40%.
+**Quantum Framework for Qiskit @ IBM** — Node-RED extension letting non-quantum developers build circuits visually. Cut authoring time by 40%.
 
 **Webex Media Automation @ Cisco** — Microservices that monitor and auto-resolve media-server failures. MTTR down to 5–10 minutes.
 
